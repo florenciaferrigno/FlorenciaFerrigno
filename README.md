@@ -3,7 +3,7 @@ My name is Florencia Ferrigno, I'm an electronic engineer.
 I live in Buenos Aires, Argentina.
 
 ## 🔧Technologies and Tools
-![](https://img.shields.io/badge/<C>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/static/v1?label=C&color=orange&logo=c)
 ![](https://img.shields.io/badge/[C]-[STATUS]-[COLOR].svg)
 <!--
