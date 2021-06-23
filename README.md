@@ -4,7 +4,7 @@ I live in Buenos Aires, Argentina.
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/<C>-<C++>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=#A8B9CC)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=.net:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/static/v1?label=C&color=orange&logo=c)
 ![](https://img.shields.io/badge/[C]-[STATUS]-[COLOR].svg)
 <!--
 **florenciaferrigno/FlorenciaFerrigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
