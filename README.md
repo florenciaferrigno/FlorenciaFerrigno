@@ -4,8 +4,13 @@ I live in Buenos Aires, Argentina.
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=#A8B9CC)
-![](https://img.shields.io/badge/static/v1?label=C&color=orange&logo=c)
-![](https://img.shields.io/badge/[C]-[STATUS]-[COLOR].svg)
+![]((https://img.shields.io/badge/-informational?style=flat&logo=dotnet&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=cplusplus&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=csharp&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=cmake&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=curl&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=docker&logoColor=white&color=#A8B9CC)
+
 <!--
 **florenciaferrigno/FlorenciaFerrigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
