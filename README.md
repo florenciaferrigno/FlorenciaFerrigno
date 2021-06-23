@@ -4,7 +4,7 @@ I live in Buenos Aires, Argentina.
 
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=#A8B9CC)
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=dotnet&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/-informational?style=flat&logo=dotnet&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/C++-informational?style=flat&logo=cplusplus&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/C#-informational?style=flat&logo=csharp&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/Cmake-informational?style=flat&logo=cmake&logoColor=white&color=#A8B9CC)
