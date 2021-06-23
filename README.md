@@ -10,6 +10,8 @@ I live in Buenos Aires, Argentina.
 ![](https://img.shields.io/badge/Cmake-informational?style=flat&logo=cmake&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/Curl-informational?style=flat&logo=curl&logoColor=white&color=#A8B9CC)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=linux&logoColor=white&color=#A8B9CC)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=linuxcontainers&logoColor=white&color=#A8B9CC)
 
 <!--
 **florenciaferrigno/FlorenciaFerrigno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
