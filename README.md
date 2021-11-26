@@ -4,6 +4,8 @@ I live in Buenos Aires, Argentina.
 
 - 🔭 I’m currently working on diverse projects on C++
 - 🌱 I’m currently learning docker and kubernetes
+- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning French
  
 ## 🔧Technologies and Tools
 ![](https://img.shields.io/badge/-informational?style=flat&logo=c&logoColor=white&color=#A8B9CC)
